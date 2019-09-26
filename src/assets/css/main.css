@@ -1,0 +1,39 @@
+.main{
+    font-size:14px;
+}
+.main a :hover{
+    color:teal;
+}
+.mainleft a{
+    margin: 0 10px;
+    color: #80bd01;
+}
+.left{
+    width: 66%;
+    padding: 10px;
+    margin: 15px 1% 0px 5%;
+    background-color: #f6f6f6;
+    display: inline-block;
+}
+.right{
+    display: inline-block;
+    padding: 10px;
+    margin: 15px 5% 0px 1%;
+    background-color: #f6f6f6;
+    width:18%;
+}
+.mainright a{
+    color:#000;
+}
+.mainright a :hover{
+    color: blue;
+}
+.list div{
+    width: 66%;
+    padding: 10px 10px 10px 10px;
+    margin: 0px 1% 0px 5%;
+    background-color:#fff;
+    height: 30px;
+    border-bottom:2px solid #f6f6f6;
+    vertical-align: middle;
+}
