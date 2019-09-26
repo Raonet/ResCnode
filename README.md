@@ -1,4 +1,4 @@
-# cnode
+# Vue-cli+Vue-route+Axios模仿Cnode
 
 ## Project setup
 ```
